@@ -483,3 +483,5 @@ The basic use of Tracy is to run a benchmark with the `cmake --preset tracy` bui
 transfer it to a local machine for interactive UI introspection.
 
 All the steps to do this effectively are included in various scripts in cpp/scripts/.
+
+<p align="right">(<a href="#top">🔼 Back to top</a>)</p>
